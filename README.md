@@ -122,9 +122,16 @@
   </tr>
   
   <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Julianj09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=f3e600&text_color=00f0ff&icon_color=ff00ff&border_color=f3e600&hide_border=false&include_all_commits=true" width="400" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Julianj09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=f3e600&text_color=00f0ff&icon_color=ff00ff&border_color=f3e600&hide_border=false" width="400" />
+    </td>
+  </tr>
+  <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Julianj09&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=f3e600&text_color=00f0ff&icon_color=ff00ff&border_color=f3e600&hide_border=false" width="48%" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianj09&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=f3e600&text_color=00f0ff&icon_color=ff00ff&border_color=f3e600&hide_border=false" width="45%" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julianj09&theme=tokyonight&background=0d1117&stroke=f3e600&ring=ff00ff&fire=f3e600&currStreakNum=00f0ff&sideLabels=00f0ff&dates=00f0ff&currStreakLabel=f3e600&border=f3e600&hide_border=false" width="810" />
     </td>
   </tr>
 </table>
