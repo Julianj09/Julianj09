@@ -1,0 +1,20 @@
+<svg width="800" height="150" viewBox="0 0 800 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="150" fill="#0d1117" />
+  
+  <!-- Neon Frame -->
+  <path d="M10 10 L790 10 L790 110 L760 140 L10 140 Z" stroke="#F3E600" stroke-width="3" fill="none" />
+  
+  <!-- Glitch Elements / Tech Blocks -->
+  <rect x="760" y="20" width="10" height="60" fill="#00F0FF" opacity="0.4" />
+  <rect x="25" y="125" width="200" height="4" fill="#F3E600" opacity="0.6" />
+  <rect x="235" y="125" width="20" height="4" fill="#FF00FF" opacity="0.6" />
+  
+  <!-- Name / Title -->
+  <text x="40" y="85" font-family="Verdana, Geneva, sans-serif" font-weight="900" font-size="52" fill="#F3E600">JULIAN TABACO</text>
+  <text x="45" y="115" font-family="monospace" font-size="14" fill="#00F0FF" opacity="0.8">// SYSTEMS_ENGINEERING_RECON // [ ACCESS_GRANTED ]</text>
+  
+  <!-- Small Readouts -->
+  <text x="650" y="30" font-family="monospace" font-size="10" fill="#00F0FF" opacity="0.5">LATENCY: 12ms</text>
+  <text x="650" y="45" font-family="monospace" font-size="10" fill="#F3E600" opacity="0.5">UPTIME: 99.8%</text>
+</svg>

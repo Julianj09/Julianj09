@@ -1,0 +1,24 @@
+<svg width="600" height="200" viewBox="0 0 600 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="200" fill="#0d1117" />
+  
+  <!-- Frame / Border (Different Shape) -->
+  <path d="M40 10 L590 10 L590 160 L560 190 L10 190 L10 40 Z" stroke="#00F0FF" stroke-width="2" fill="none" />
+  
+  <!-- Content Labels -->
+  <text x="25" y="180" font-family="monospace" font-size="10" fill="#00F0FF" opacity="0.8">[ SENSOR_ID: VISION_A ]</text>
+  <text x="500" y="30" font-family="monospace" font-size="10" fill="#00F0FF" opacity="0.8">OPCV // VER: 0.9.1</text>
+  
+  <!-- Project Title -->
+  <text x="40" y="80" font-family="Arial, sans-serif" font-weight="900" font-size="28" fill="#00F0FF">VISION AUTOMATA</text>
+  <text x="40" y="110" font-family="monospace" font-size="12" fill="#F3E600" opacity="0.9">> COMPUTER VISION // REAL-TIME OPTIMIZATION</text>
+  
+  <!-- HUD Elements -->
+  <circle cx="550" cy="180" r="4" fill="#00F0FF" opacity="0.5" />
+  <circle cx="530" cy="180" r="4" fill="#00F0FF" opacity="0.2" />
+  <line x1="40" y1="130" x2="400" y2="130" stroke="#F3E600" stroke-width="1" stroke-dasharray="2 2" />
+  <rect x="560" y="60" width="10" height="30" fill="#00F0FF" opacity="0.3" />
+  
+  <!-- Decorative Lines -->
+  <path d="M10 50 L30 50 L40 60" stroke="#F3E600" stroke-width="1" />
+</svg>
